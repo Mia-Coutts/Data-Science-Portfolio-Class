@@ -4,4 +4,5 @@ Hi! My name is Mia Coutts and I’m a Data Science major at Belmont University g
 Various predictive models were used on data from 292 high schools in Massachusetts in 2017. These models aimed to predict which schools performed above average on the SAT. Python was used to run models including Random Forest, K Nearest Neighbors, and Logistic Regression, all with an accuracy score above 85%. Error analysis was performed on these models through cross-validation, k-fold CV, stratified CV, and bootstrapping. Furthermore, feature importance analysis was conducted to identify which variables were the most significant in predicting SAT scores. It was observed that the most significant predictor of a school's SAT score being above average is the percentage of high-needs students.
 
 After anaylzing the data, I created a website using R Shiny to display some of my results as well as some interactive visualizations!
+
 Website: https://3dn9fd-mia-coutts.shinyapps.io/Belmont_Data_Science_Project/
