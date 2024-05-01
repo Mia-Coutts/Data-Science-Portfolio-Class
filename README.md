@@ -7,4 +7,4 @@ After anaylzing the data, I created a website using R Shiny to display some of m
 
 Website: https://3dn9fd-mia-coutts.shinyapps.io/Belmont_Data_Science_Project/
 
-This repository included the data files I used, my python code used to run predictive models, and my R code used to create my website. 
+This repository includes the data files I used, my python code used to run predictive models, and my R code used to create my website. 
